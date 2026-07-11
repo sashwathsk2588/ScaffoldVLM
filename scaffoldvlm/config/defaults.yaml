@@ -1,0 +1,32 @@
+loop:
+  task_region_max_iters: 5
+  decor_region_max_iters: 2
+  accept_threshold: 0.85
+  catastrophic_threshold: 0.20
+
+critic:
+  weights:
+    visual: 0.5
+    reachability: 0.3
+    physics: 0.2
+  render_viewpoints: [top, front, side, task]
+  physics_settle_frames: 60
+  physics_drift_cutoff_cm: 5
+
+vlm:
+  backend: qwen3vl_local
+  model: Qwen/Qwen3-VL-7B-Instruct
+  endpoint: null
+  max_retries: 3
+
+assets:
+  objaverse_root: ~/objaverse
+  partnet_root: ~/partnet_mobility
+  usd_cache: ~/.scaffoldvlm/cache/partnet_usd
+
+isaac:
+  enabled: auto
+
+refinement:
+  max_iters: 3
+  accept_threshold: 0.85
