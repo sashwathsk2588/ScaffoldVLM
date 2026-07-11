@@ -1,0 +1,89 @@
+{
+    "task_description": "A cozy living room with the following layout specifications: loveseat centered in the room, small coffee table in front of the loveseat, and a TV stand on one wall. Room size: 4m x 5m",
+    "layout_criteria": "The layout criteria should follow the task description and be cozy, symmetrical, and functional with a clear focal point around the loveseat and TV stand.",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0
+            ],
+            [
+                4,
+                5,
+                0
+            ],
+            [
+                0,
+                5,
+                0
+            ]
+        ],
+        "wall_height": 2.5771140587948476
+    },
+    "assets": {
+        "e5a5949092db49a4a02e1b7bad39ebc3-0": {},
+        "706a1b0e23d34e60b0f8c9210ee85722-0": {},
+        "2f519d85f9c942059c085f33f21ea264-0": {},
+        "49b464ed824340ad8004396212171c13-0": {},
+        "055ecc09440b4a40b3c27caf8e0ff768-0": {},
+        "341fbd5544f541bbb4d5edf5007c236d-0": {},
+        "341fbd5544f541bbb4d5edf5007c236d-1": {},
+        "341fbd5544f541bbb4d5edf5007c236d-2": {},
+        "341fbd5544f541bbb4d5edf5007c236d-3": {},
+        "9e5d51be94fc4e2586a84b479aa20006-0": {},
+        "9e5d51be94fc4e2586a84b479aa20006-1": {},
+        "9e5d51be94fc4e2586a84b479aa20006-2": {},
+        "9e5d51be94fc4e2586a84b479aa20006-3": {},
+        "f130817ddede45b5acd1d78f7af099d0-0": {},
+        "ff91bcd9854e453dafc069321396225a-0": {},
+        "dd654e44674546bd891ab9620be5e405-0": {}
+    },
+    "og_asset_list": {
+        "loveseat": [
+            1,
+            1
+        ],
+        "coffee table": [
+            1,
+            1
+        ],
+        "TV stand": [
+            1,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "floor lamp": [
+            1,
+            1
+        ],
+        "throw pillow": [
+            4,
+            1
+        ],
+        "coaster": [
+            4,
+            1
+        ],
+        "remote control": [
+            1,
+            1
+        ],
+        "blanket": [
+            1,
+            1
+        ],
+        "decorative plant": [
+            1,
+            1
+        ]
+    }
+}

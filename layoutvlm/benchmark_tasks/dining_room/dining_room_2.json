@@ -1,0 +1,95 @@
+{
+    "task_description": "A modern dining room with a dining table and chairs; 3 x 5m",
+    "layout_criteria": "Sleek and airy design; center the chairs and table, each chair should be equidistant from the table",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                5,
+                0,
+                0
+            ],
+            [
+                5,
+                3,
+                0
+            ],
+            [
+                0,
+                3,
+                0
+            ]
+        ],
+        "wall_height": 2.2319747536239736
+    },
+    "assets": {
+        "9691492c3f534afd91719a97c0ff84da-0": {},
+
+        "ad50860943774a0d934f7120e51c662b-0": {},
+        "ad50860943774a0d934f7120e51c662b-1": {},
+        "ad50860943774a0d934f7120e51c662b-2": {},
+        "ad50860943774a0d934f7120e51c662b-3": {},
+
+        "f734d62f5184445880e73f7a64935c0f-0": {},
+        "f734d62f5184445880e73f7a64935c0f-1": {},
+        "f734d62f5184445880e73f7a64935c0f-2": {},
+        "f734d62f5184445880e73f7a64935c0f-3": {},
+
+        "ff6c2a731571458f883ae44d33522bb8-0": {},
+        "ff6c2a731571458f883ae44d33522bb8-1": {},
+        "ff6c2a731571458f883ae44d33522bb8-2": {},
+        "ff6c2a731571458f883ae44d33522bb8-3": {},
+
+        "955d09c7df624d77900b5500c5f5a1ac-0": {},
+        
+        "bca74c3a370347c5b78fa148fda1ab61-0": {},
+
+        "e14456d485ef4dff85107c69e0044c08-0": {}
+    },
+    "og_asset_list": {
+        "dining table": [
+            1,
+            1
+        ],
+        "dining chair": [
+            4,
+            1
+        ],
+        "chandelier": [
+            1,
+            1
+        ],
+        "table runner": [
+            1,
+            1
+        ],
+        "wine glasses": [
+            4,
+            1
+        ],
+        "plates": [
+            4,
+            1
+        ],
+        "napkins": [
+            4,
+            1
+        ],
+        "candle holders": [
+            2,
+            1
+        ],
+        "centerpiece": [
+            1,
+            1
+        ],
+        "coasters": [
+            4,
+            1
+        ]
+    }
+}

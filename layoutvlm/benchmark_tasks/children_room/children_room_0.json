@@ -1,0 +1,97 @@
+{
+    "task_description": "A playful children's room with a twin bed; 4m x 5m",
+    "layout_criteria": "Fun and versatile layout; place the bed in a corner with a night stand nearby",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0
+            ],
+            [
+                4,
+                5,
+                0
+            ],
+            [
+                0,
+                5,
+                0
+            ]
+        ],
+        "wall_height": 1.7239785146579107
+    },
+    "assets": {
+        "89a33e13606b49299c909cc20bf25df5-0": {},
+        
+        "c2b22722e149416bacf7420a59cb472b-0": {},
+
+        "97014a622cab4c61bf83ade327cb4d39-0": {},
+        "97014a622cab4c61bf83ade327cb4d39-1": {},
+
+        "ab8a4df5160f4dd8953beb9e485820b8-0": {},
+        "ea786cc7f5e34a7d8248f4bb0787fef8-0": {},
+        "304f877357de42a6a018b1d96fa571af-0": {},
+
+        "17fec52d59c643a3adf4c0672343e346-0": {},
+
+        "fe678248122b499e91835652c2d40145-0": {},
+
+        "17e32c164de34432bfc0c3055eff6adc-0": {},
+
+        "e6341bc0e0b646a1b073a5dc520d3d43-0": {},
+
+        "0292ebb0ac4d492c8b1f9be295bbe93a-0": {},
+
+        "f90a6a8a272e44febc69ade8d8d5bb8e-0": {},
+
+        "b5ba3da3c0514d938728c2773cb836d2-0": {}
+    },
+    "og_asset_list": {
+        "bed": [
+            1,
+            1
+        ],
+        "nightstand": [
+            1,
+            1
+        ],
+        "stuffed animal": [
+            5,
+            1
+        ],
+        "toy chest": [
+            1,
+            1
+        ],
+        "bookshelf": [
+            1,
+            1
+        ],
+        "desk": [
+            1,
+            1
+        ],
+        "chair": [
+            1,
+            1
+        ],
+        "play mat": [
+            1,
+            1
+        ],
+        "toy box": [
+            1,
+            1
+        ],
+        "wall art": [
+            3,
+            1
+        ]
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "task_description": "A buffet restaurant with wooden tables; 9m x 11m",
+    "layout_criteria": "Cozy and authentic feel; Each table should have four wooden chairs",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                9,
+                0,
+                0
+            ],
+            [
+                9,
+                11,
+                0
+            ],
+            [
+                0,
+                11,
+                0
+            ]
+        ],
+        "wall_height": 1.9527114802252084
+    },
+    "assets": {
+        "c883833b9e5048ffb4adaa9ab74b40da-0": {},
+        "c883833b9e5048ffb4adaa9ab74b40da-1": {},
+        "c883833b9e5048ffb4adaa9ab74b40da-2": {},
+        "c883833b9e5048ffb4adaa9ab74b40da-3": {},
+        "c883833b9e5048ffb4adaa9ab74b40da-4": {},
+        "c883833b9e5048ffb4adaa9ab74b40da-5": {},
+
+        "9886cfd1558c4c789eee16a44121d68b-0": {},
+        "9886cfd1558c4c789eee16a44121d68b-1": {},
+        "9886cfd1558c4c789eee16a44121d68b-2": {},
+        "9886cfd1558c4c789eee16a44121d68b-3": {},
+        "9886cfd1558c4c789eee16a44121d68b-4": {},
+        "9886cfd1558c4c789eee16a44121d68b-5": {},
+        "9886cfd1558c4c789eee16a44121d68b-6": {},
+        "9886cfd1558c4c789eee16a44121d68b-7": {},
+        "9886cfd1558c4c789eee16a44121d68b-8": {},
+        "9886cfd1558c4c789eee16a44121d68b-9": {},
+        "9886cfd1558c4c789eee16a44121d68b-10": {},
+        "9886cfd1558c4c789eee16a44121d68b-11": {},
+        "9886cfd1558c4c789eee16a44121d68b-12": {},
+        "9886cfd1558c4c789eee16a44121d68b-13": {},
+        "9886cfd1558c4c789eee16a44121d68b-14": {},
+        "9886cfd1558c4c789eee16a44121d68b-15": {},
+        "9886cfd1558c4c789eee16a44121d68b-16": {},
+        "9886cfd1558c4c789eee16a44121d68b-17": {},
+        "9886cfd1558c4c789eee16a44121d68b-18": {},
+        "9886cfd1558c4c789eee16a44121d68b-19": {},
+        "9886cfd1558c4c789eee16a44121d68b-20": {},
+        "9886cfd1558c4c789eee16a44121d68b-21": {},
+        "9886cfd1558c4c789eee16a44121d68b-22": {},
+        "9886cfd1558c4c789eee16a44121d68b-23": {},
+        
+        "5771d7fb1fd142d8993c6e063a3ea733-0": {},
+        "5771d7fb1fd142d8993c6e063a3ea733-1": {},
+        "5771d7fb1fd142d8993c6e063a3ea733-2": {},
+        "5771d7fb1fd142d8993c6e063a3ea733-3": {},
+        "5771d7fb1fd142d8993c6e063a3ea733-4": {},
+        "5771d7fb1fd142d8993c6e063a3ea733-5": {},
+
+        "685aac4b0f5b44cd9045ec8687292143-0": {},
+        "685aac4b0f5b44cd9045ec8687292143-1": {},
+        "685aac4b0f5b44cd9045ec8687292143-2": {},
+        "685aac4b0f5b44cd9045ec8687292143-3": {},
+        "685aac4b0f5b44cd9045ec8687292143-4": {},
+        "685aac4b0f5b44cd9045ec8687292143-5": {},
+
+        "0a3dc72fb1bb41439005cac4a3ebb765-0": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-1": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-2": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-3": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-4": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-5": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-6": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-7": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-8": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-9": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-10": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-11": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-12": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-13": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-14": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-15": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-16": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-17": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-18": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-19": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-20": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-21": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-22": {},
+        "0a3dc72fb1bb41439005cac4a3ebb765-23": {}
+    },
+    "og_asset_list": {
+        "wooden table": [
+            5,
+            1
+        ],
+        "wooden chair": [
+            15,
+            1
+        ],
+        "napkin holder": [
+            1,
+            1
+        ],
+        "buffet station": [
+            1,
+            1
+        ],
+        "silverware": [
+            1,
+            1
+        ],
+        "plates": [
+            1,
+            1
+        ],
+        "food warmer": [
+            1,
+            1
+        ],
+        "drink dispenser": [
+            1,
+            1
+        ],
+        "dessert cart": [
+            1,
+            1
+        ],
+        "candle holder": [
+            1,
+            1
+        ]
+    }
+}

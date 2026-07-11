@@ -1,0 +1,85 @@
+{
+    "task_description": "A minimalist living room with the following layout specifications: small sofa against one wall, a coffee table in front of the sofa, and a single chair in one corner. Room size: 4m x 4m",
+    "layout_criteria": "The layout criteria should follow the task description and be minimalist, with a small sofa against one wall, a coffee table in front of the sofa, and a single chair in one corner to maximize the space in the 4m x 4m room.",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0
+            ],
+            [
+                4,
+                4,
+                0
+            ],
+            [
+                0,
+                4,
+                0
+            ]
+        ],
+        "wall_height": 1.0650670488535852
+    },
+    "assets": {
+        "ea8211d1ba024cf68f3d013412fc790f-0": {},
+        "706a1b0e23d34e60b0f8c9210ee85722-0": {},
+        "600e1e7db1cf48479da37f997e6c3448-0": {},
+        "49b464ed824340ad8004396212171c13-0": {},
+        "055ecc09440b4a40b3c27caf8e0ff768-0": {},
+        "341fbd5544f541bbb4d5edf5007c236d-0": {},
+        "341fbd5544f541bbb4d5edf5007c236d-1": {},
+        "ff91bcd9854e453dafc069321396225a-0": {},
+        "e44787f102244418b88f76dad23f7d32-0": {},
+        "e399183c810d4b68b4a90c021dc62820-0": {},
+        "e0166b7b9bff42e9a6b39ac1f08ce53c-0": {},
+        "e0166b7b9bff42e9a6b39ac1f08ce53c-1": {}
+    },
+    "og_asset_list": {
+        "sofa": [
+            1,
+            1
+        ],
+        "coffee table": [
+            1,
+            1
+        ],
+        "chair": [
+            1,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "floor lamp": [
+            1,
+            1
+        ],
+        "throw pillow": [
+            2,
+            1
+        ],
+        "blanket": [
+            1,
+            1
+        ],
+        "side table": [
+            1,
+            1
+        ],
+        "bookshelf": [
+            1,
+            1
+        ],
+        "artwork": [
+            2,
+            1
+        ]
+    }
+}

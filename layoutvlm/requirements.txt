@@ -1,0 +1,20 @@
+numpy>=1.21.0
+openai>=1.0.0
+torch>=1.9.0
+scipy>=1.7.0
+tqdm>=4.62.0
+shapely>=2.0.0
+imageio>=2.9.0
+pydantic>=2.0.0
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.2
+opencv-python>=4.5.0
+pillow>=9.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+pyyaml>=6.0.0
+requests>=2.28.0
+bpy>=3.6.0  # Blender Python API
+trimesh>=3.9.0  # For 3D mesh processing
+mathutils

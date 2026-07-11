@@ -1,0 +1,126 @@
+{
+    "task_description": "A florist shop for succulents with a large table; 5m x 6m",
+    "layout_criteria": "Unique and educational layout; position the large table centrally and succulents on top of it, surrounded by terrariums and potting stations",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                5,
+                0,
+                0
+            ],
+            [
+                5,
+                6,
+                0
+            ],
+            [
+                0,
+                6,
+                0
+            ]
+        ],
+        "wall_height": 2.7560350107849105
+    },
+    "assets": {
+        "51f0d0a9aa934af09083473fc3158cad-0": {},
+
+        "da04332ea96a4e9395c8612da0aac84b-0": {},
+        "da04332ea96a4e9395c8612da0aac84b-1": {},
+        "da04332ea96a4e9395c8612da0aac84b-2": {},
+
+        "f4d7a66c61bc4905802577b65cb83523-0": {},
+        "f4d7a66c61bc4905802577b65cb83523-1": {},
+
+        "57972124483145b4a4bbf4fd4caca6e7-0": {},
+        "57972124483145b4a4bbf4fd4caca6e7-1": {},
+        "57972124483145b4a4bbf4fd4caca6e7-2": {},
+        "57972124483145b4a4bbf4fd4caca6e7-3": {},
+        "57972124483145b4a4bbf4fd4caca6e7-4": {},
+
+        "50c2317a5edc43d198ad94f362e59e4f-0": {},
+        "50c2317a5edc43d198ad94f362e59e4f-1": {},
+        "50c2317a5edc43d198ad94f362e59e4f-2": {},
+        "50c2317a5edc43d198ad94f362e59e4f-3": {},
+        "50c2317a5edc43d198ad94f362e59e4f-4": {},
+
+        "611d1c52647c49a8bf0f1d7cfe517315-0": {},
+        "611d1c52647c49a8bf0f1d7cfe517315-1": {},
+        "611d1c52647c49a8bf0f1d7cfe517315-2": {},
+        "611d1c52647c49a8bf0f1d7cfe517315-3": {},
+        "611d1c52647c49a8bf0f1d7cfe517315-4": {},
+
+        "09ee949f846a4aa2a63fb3468cd97b8a-0": {},
+
+        "e1123c5e510d4a418a6efd3c9cd18953-0": {},
+
+        "780e747773f74ac287da0651097447d7-0": {},
+        
+        "c3b171389d6a47e785f74b20095e2577-0": {},
+        "c3b171389d6a47e785f74b20095e2577-1": {},
+
+        "ba0911be208b41919933417f82dc3fc4-0": {},
+
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-0": {},
+
+        "b9bbb7b0c02f4fb29976bb1d004cb2d9-0": {},
+        "b9bbb7b0c02f4fb29976bb1d004cb2d9-1": {},
+
+        "982738043be146b5a7c3a3f81970ddc6-0": {},
+        "982738043be146b5a7c3a3f81970ddc6-1": {},
+
+        "fa59819201c948c1a513b146fd7f05bd-0": {},
+        "fa59819201c948c1a513b146fd7f05bd-1": {},
+
+        "ecebd5c1be464d2aae52df96f1e547a7-0": {},
+
+        "cab7ddf5f4914f6ab9c72e9716c43c15-0": {},
+        "76e0d92cd8fd489d9b097e243326591e-0": {}
+    },
+    "og_asset_list": {
+        "large table": [
+            1,
+            1
+        ],
+        "terrarium": [
+            3,
+            1
+        ],
+        "potting station": [
+            2,
+            1
+        ],
+        "succulent": [
+            15,
+            3
+        ],
+        "pruning shears": [
+            1,
+            1
+        ],
+        "watering can": [
+            1,
+            1
+        ],
+        "gloves": [
+            1,
+            1
+        ],
+        "fertilizer": [
+            1,
+            1
+        ],
+        "plant markers": [
+            1,
+            1
+        ],
+        "workshop apron": [
+            1,
+            1
+        ]
+    }
+}

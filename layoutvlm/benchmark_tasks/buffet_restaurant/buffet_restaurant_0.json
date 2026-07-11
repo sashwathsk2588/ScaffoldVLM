@@ -1,0 +1,164 @@
+{
+    "task_description": "A small buffet restaurant with a dessert station; 8m x 8m",
+    "layout_criteria": "Compact yet functional layout; buffet tables arrangement should be symmetrically arranged ",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                6,
+                0,
+                0
+            ],
+            [
+                6,
+                8,
+                0
+            ],
+            [
+                0,
+                8,
+                0
+            ]
+        ],
+        "wall_height": 2.103350512088398
+    },
+    "assets": {
+        "55a5f4ddffc04e609e44bd8bb4bdd450-0": {},
+        "55a5f4ddffc04e609e44bd8bb4bdd450-1": {},
+
+        "fc0075723a0a4d7e93aee8642503e171-0": {},
+
+        "8b2580c6fd9a476f9786dcfeb390eeaa-0": {},
+
+        "2a93f91b3bf9462eb4e14ee87db9b54f-0": {},
+        "2a93f91b3bf9462eb4e14ee87db9b54f-1": {},
+        "2a93f91b3bf9462eb4e14ee87db9b54f-2": {},
+        "2a93f91b3bf9462eb4e14ee87db9b54f-3": {},
+
+        "754e8e6b8f11476bbdbfaa8ce06c0122-0": {},
+        "754e8e6b8f11476bbdbfaa8ce06c0122-1": {},
+        "754e8e6b8f11476bbdbfaa8ce06c0122-2": {},
+        "754e8e6b8f11476bbdbfaa8ce06c0122-3": {},
+        "754e8e6b8f11476bbdbfaa8ce06c0122-4": {},
+
+        
+        "fdbb53e4b89249ff82586a7c28b34392-0": {},
+        "fdbb53e4b89249ff82586a7c28b34392-1": {},
+        "fdbb53e4b89249ff82586a7c28b34392-2": {},
+        "fdbb53e4b89249ff82586a7c28b34392-3": {},
+        "fdbb53e4b89249ff82586a7c28b34392-4": {},
+        "fdbb53e4b89249ff82586a7c28b34392-5": {},
+        "fdbb53e4b89249ff82586a7c28b34392-6": {},
+        "fdbb53e4b89249ff82586a7c28b34392-7": {},
+        "fdbb53e4b89249ff82586a7c28b34392-8": {},
+        "fdbb53e4b89249ff82586a7c28b34392-9": {},
+        "fdbb53e4b89249ff82586a7c28b34392-10": {},
+        "fdbb53e4b89249ff82586a7c28b34392-11": {},
+        "fdbb53e4b89249ff82586a7c28b34392-12": {},
+        "fdbb53e4b89249ff82586a7c28b34392-13": {},
+        "fdbb53e4b89249ff82586a7c28b34392-14": {},
+
+
+        "ff6c2a731571458f883ae44d33522bb8-0": {},
+        "ff6c2a731571458f883ae44d33522bb8-1": {},
+        "ff6c2a731571458f883ae44d33522bb8-2": {},
+        "ff6c2a731571458f883ae44d33522bb8-3": {},
+        "ff6c2a731571458f883ae44d33522bb8-4": {},
+        "ff6c2a731571458f883ae44d33522bb8-5": {},
+        "ff6c2a731571458f883ae44d33522bb8-6": {},
+        "ff6c2a731571458f883ae44d33522bb8-7": {},
+        "ff6c2a731571458f883ae44d33522bb8-8": {},
+        "ff6c2a731571458f883ae44d33522bb8-9": {},
+        "ff6c2a731571458f883ae44d33522bb8-10": {},
+        "ff6c2a731571458f883ae44d33522bb8-11": {},
+        "ff6c2a731571458f883ae44d33522bb8-12": {},
+        "ff6c2a731571458f883ae44d33522bb8-13": {},
+        "ff6c2a731571458f883ae44d33522bb8-14": {},
+
+        "12cdedd05c624f39939ba4bff6e21bc0-0": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-1": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-2": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-3": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-4": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-5": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-6": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-7": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-8": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-9": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-10": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-11": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-12": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-13": {},
+        "12cdedd05c624f39939ba4bff6e21bc0-14": {},
+
+        "0ce3b89790954c499f9dc67f3e3a621f-0": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-1": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-2": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-3": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-4": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-5": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-6": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-7": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-8": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-9": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-10": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-11": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-12": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-13": {},
+        "0ce3b89790954c499f9dc67f3e3a621f-14": {},
+
+        "d19b642533494aec86fe8f125bcbf483-0": {},
+        "d19b642533494aec86fe8f125bcbf483-1": {},
+        "d19b642533494aec86fe8f125bcbf483-2": {},
+        "d19b642533494aec86fe8f125bcbf483-3": {},
+        "d19b642533494aec86fe8f125bcbf483-4": {},
+
+        "f92cd05a3f684a84bcaeca09310d7113-0": {}
+    },
+    "og_asset_list": {
+        "buffet table": [
+            2,
+            1
+        ],
+        "dessert station": [
+            1,
+            1
+        ],
+        "chairs": [
+            8,
+            1
+        ],
+        "plates": [
+            20,
+            1
+        ],
+        "forks": [
+            20,
+            1
+        ],
+        "knives": [
+            20,
+            1
+        ],
+        "spoons": [
+            20,
+            1
+        ],
+        "napkins": [
+            20,
+            1
+        ],
+        "drink dispenser": [
+            1,
+            1
+        ],
+        "food warmer": [
+            1,
+            1
+        ]
+    }
+}

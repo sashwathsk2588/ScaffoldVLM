@@ -1,0 +1,98 @@
+{
+    "task_description": "A cozy game room with a chess table and book shelf; 4m x 5m",
+    "layout_criteria": "Intellectual and relaxing space; place the chess table near a wall, and the bookshelf along the opposite wall to balance the room",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0
+            ],
+            [
+                4,
+                5,
+                0
+            ],
+            [
+                0,
+                5,
+                0
+            ]
+        ],
+        "wall_height": 1.31239573145213
+    },
+    "assets": {
+        "1dba4faab67641238035429debcf832f-0": {},
+
+        "e61309c3843c4fd09c62fcb7a70bae03-0": {},
+
+        "fe678248122b499e91835652c2d40145-0": {},
+        "fe678248122b499e91835652c2d40145-1": {},
+        "fe678248122b499e91835652c2d40145-2": {},
+        "fe678248122b499e91835652c2d40145-3": {},
+
+        "fd09a9cb1336413296578e8b00cb151a-0": {},
+        "fd09a9cb1336413296578e8b00cb151a-1": {},
+
+        "49b464ed824340ad8004396212171c13-0": {},
+        
+        "4b4bd3bb86f748a6b72bffffd31a398b-0": {},
+
+        "fc112378717a4a0798e9f68fe717b355-0": {},
+
+        "fbaab2ba11bc40d18132d94e56675e17-0": {},
+
+        "7d6938c0c0b54b06a0210a982a73023e-0": {},
+
+        "496987a8128b46d4a86453dac9b5f483-0": {},
+
+        "dc41897ad1784dacab7821b6eb58d748-0": {}
+    },
+    "og_asset_list": {
+        "chess table": [
+            1,
+            1
+        ],
+        "bookshelf": [
+            1,
+            1
+        ],
+        "chair": [
+            2,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "lamp": [
+            1,
+            1
+        ],
+        "painting": [
+            1,
+            1
+        ],
+        "clock": [
+            1,
+            1
+        ],
+        "coffee table": [
+            1,
+            1
+        ],
+        "candle": [
+            1,
+            1
+        ],
+        "vase": [
+            1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "task_description": "A rustic bookstore with bookcases and a kids' corner; 8m x 9m",
+    "layout_criteria": "Warm and nostalgic ambiance; the kids book corner should have books scattered around it",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                8,
+                0,
+                0
+            ],
+            [
+                8,
+                9,
+                0
+            ],
+            [
+                0,
+                9,
+                0
+            ]
+        ],
+        "wall_height": 2.276829414389036
+    },
+    "assets": {
+        "b7e25d2b684747c08e90b8cf446bdb43-0": {},
+        "b7e25d2b684747c08e90b8cf446bdb43-1": {},
+        "b7e25d2b684747c08e90b8cf446bdb43-2": {},
+        "b7e25d2b684747c08e90b8cf446bdb43-3": {},
+
+        "e15617d9fa0d433caaf3443e31b8c63c-0": {},
+        "e15617d9fa0d433caaf3443e31b8c63c-1": {},
+        "e15617d9fa0d433caaf3443e31b8c63c-2": {},
+
+        "58ce383b286f4a1ebcd0f79b43cb034f-0": {},
+
+        "beccd2f9e8724ca6844a458376ebd2d8-0": {},
+        "beccd2f9e8724ca6844a458376ebd2d8-1": {},
+
+        "49b464ed824340ad8004396212171c13-0": {},
+
+        "fffc1e93674a4d1ba3bcb99a647ced47-0": {},
+        "fffc1e93674a4d1ba3bcb99a647ced47-1": {},
+
+        "b4533981c0ff4c1794cb708795ed190d-0": {},
+        "b4533981c0ff4c1794cb708795ed190d-1": {},
+        "b4533981c0ff4c1794cb708795ed190d-2": {},
+        "b4533981c0ff4c1794cb708795ed190d-3": {},
+
+        "7ea0929918f44c3f89c093b15b91a587-0": {},
+
+        "dd6c9d90421b4a99acdfebbddd4ccf75-0": {},
+        
+        "1ab9bf841df04c07b1819be596327629-0": {},
+        "1ab9bf841df04c07b1819be596327629-1": {},
+
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-0": {},
+
+        "b9bbb7b0c02f4fb29976bb1d004cb2d9-0": {}
+    },
+    "og_asset_list": {
+        "bookcase": [
+            2,
+            1
+        ],
+        "kids book": [
+            10,
+            3
+        ],
+        "kids table": [
+            1,
+            1
+        ],
+        "kids chair": [
+            2,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "reading lamp": [
+            2,
+            1
+        ],
+        "cozy armchair": [
+            1,
+            1
+        ],
+        "vintage clock": [
+            1,
+            1
+        ],
+        "potted plant": [
+            3,
+            1
+        ],
+        "painting": [
+            2,
+            1
+        ]
+    }
+}

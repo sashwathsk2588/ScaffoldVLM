@@ -1,0 +1,94 @@
+{
+    "task_description": "A spacious game room with a ping pong table and foosball setup; 7m x 8m",
+    "layout_criteria": "Active and social layout; position the ping pong table centrally with the foosball table parallel to it, creating distinct play zones with clear pathways between",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                7,
+                0,
+                0
+            ],
+            [
+                7,
+                8,
+                0
+            ],
+            [
+                0,
+                8,
+                0
+            ]
+        ],
+        "wall_height": 1.4225583257318812
+    },
+    "assets": {
+        "e6f1333eb8ee4bedb84110a38f79bc40-0": {},
+
+        "1303a318d4584639acef729b9fd296fc-0": {},
+        
+        "0f2ae181a2dd4b00a6ec25073692037f-0": {},
+
+        "67d88c3a9b1c4075aaf3feaeabde4fa1-0": {},
+        "67d88c3a9b1c4075aaf3feaeabde4fa1-1": {},
+        "67d88c3a9b1c4075aaf3feaeabde4fa1-2": {},
+        "67d88c3a9b1c4075aaf3feaeabde4fa1-3": {},
+
+        "994cecc1a49d4a17a98b36f26b03d52d-0": {},
+
+        "fef44e4cc0834a1582e1f79fe0c39799-0": {},
+        "fef44e4cc0834a1582e1f79fe0c39799-1": {},
+
+        "0dac52e077044a5997610dfe6a905331-0": {},
+
+        "f6a8d9cf57bb4342840e790d02d1043d-0": {},
+
+        "d67e3f3d1bdd4a4e8b63c489cd55a5fc-0": {}
+    },
+    "og_asset_list": {
+        "ping pong table": [
+            1,
+            1
+        ],
+        "foosball table": [
+            1,
+            1
+        ],
+        "bar stool": [
+            4,
+            1
+        ],
+        "bar table": [
+            1,
+            1
+        ],
+        "arcade machine": [
+            2,
+            1
+        ],
+        "darts board": [
+            1,
+            1
+        ],
+        "popcorn machine": [
+            1,
+            1
+        ],
+        "pool table": [
+            1,
+            1
+        ],
+        "vending machine": [
+            1,
+            1
+        ],
+        "air hockey table": [
+            1,
+            1
+        ]
+    }
+}

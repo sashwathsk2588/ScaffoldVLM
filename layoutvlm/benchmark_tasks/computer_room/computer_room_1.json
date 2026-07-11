@@ -1,0 +1,112 @@
+{
+    "task_description": "A computer room with a conference table meant for work meetings; 6m x 8m",
+    "layout_criteria": "Professional and tech-integrated meeting space; center the conference table with the computers, place the three tables in such a manner it forms one large longer table",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                6,
+                0,
+                0
+            ],
+            [
+                6,
+                8,
+                0
+            ],
+            [
+                0,
+                8,
+                0
+            ]
+        ],
+        "wall_height": 2.3762315888625856
+    },
+    "assets": {
+        "2e298de5176540f8bdf5633842604806-0": {},
+        "2e298de5176540f8bdf5633842604806-1": {},
+        "2e298de5176540f8bdf5633842604806-2": {},
+
+        "e1bb81010d844577aab6d3a6a27bc3ed-0": {},
+        "e1bb81010d844577aab6d3a6a27bc3ed-1": {},
+        "e1bb81010d844577aab6d3a6a27bc3ed-2": {},
+        "e1bb81010d844577aab6d3a6a27bc3ed-3": {},
+        "e1bb81010d844577aab6d3a6a27bc3ed-4": {},
+        "e1bb81010d844577aab6d3a6a27bc3ed-5": {},
+
+        "f4c3a936dae745e08405cf2fd820b89c-0": {},
+        "f4c3a936dae745e08405cf2fd820b89c-1": {},
+        "f4c3a936dae745e08405cf2fd820b89c-2": {},
+        "f4c3a936dae745e08405cf2fd820b89c-3": {},
+        "f4c3a936dae745e08405cf2fd820b89c-4": {},
+        "f4c3a936dae745e08405cf2fd820b89c-5": {},
+
+        "7a09f0a44966446183c126358f12b08e-0": {},
+        "7a09f0a44966446183c126358f12b08e-1": {},
+        "7a09f0a44966446183c126358f12b08e-2": {},
+        "7a09f0a44966446183c126358f12b08e-3": {},
+        "7a09f0a44966446183c126358f12b08e-4": {},
+        "7a09f0a44966446183c126358f12b08e-5": {},
+
+        "b6a87af6f9a747eaae3ba7f1ba9e0dd7-0": {},
+
+        "e573304fce364cf299027494fc1afede-0": {},
+        "e573304fce364cf299027494fc1afede-1": {},
+        "e573304fce364cf299027494fc1afede-2": {},
+
+        "fcaba41f8ec0430696793a384189d0c7-0": {},
+        "fcaba41f8ec0430696793a384189d0c7-1": {},
+        "fcaba41f8ec0430696793a384189d0c7-2": {},
+        "fcaba41f8ec0430696793a384189d0c7-3": {},
+        "fcaba41f8ec0430696793a384189d0c7-4": {},
+        "fcaba41f8ec0430696793a384189d0c7-5": {},
+
+        "902e57265f2043839eb983e270a813f7-0": {}
+    },
+    "og_asset_list": {
+        "conference table": [
+            1,
+            1
+        ],
+        "computer": [
+            6,
+            1
+        ],
+        "office chair": [
+            6,
+            1
+        ],
+        "projector": [
+            1,
+            1
+        ],
+        "whiteboard": [
+            1,
+            1
+        ],
+        "power strip": [
+            1,
+            1
+        ],
+        "notebook": [
+            1,
+            1
+        ],
+        "pen": [
+            6,
+            1
+        ],
+        "water pitcher": [
+            1,
+            1
+        ],
+        "clock": [
+            1,
+            1
+        ]
+    }
+}

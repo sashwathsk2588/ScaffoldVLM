@@ -1,0 +1,110 @@
+{
+    "task_description": "An inviting dining room with a table and six chairs; 5m x 6m",
+    "layout_criteria": "Welcoming and elegant ambiance; two chairs should be at the head of the table, and four chairs on the sides",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                5,
+                0,
+                0
+            ],
+            [
+                5,
+                5,
+                0
+            ],
+            [
+                0,
+                5,
+                0
+            ]
+        ],
+        "wall_height": 2.490651819101054
+    },
+    "assets": {
+        "590ca0ebce894b7193d859355f69fc81-0": {},
+
+        "84cf996914eb49bdb700c192914fdd2a-0": {},
+        "84cf996914eb49bdb700c192914fdd2a-1": {},
+        "84cf996914eb49bdb700c192914fdd2a-2": {},
+        "84cf996914eb49bdb700c192914fdd2a-3": {},
+        "84cf996914eb49bdb700c192914fdd2a-4": {},
+        "84cf996914eb49bdb700c192914fdd2a-5": {},
+
+        "5a46dc79442249d59ee05b2f1d28db41-0": {},
+        "5a46dc79442249d59ee05b2f1d28db41-1": {},
+
+        "0f58352d377840cdbeef0bd71b24aff6-0": {},
+
+        "f3ee2cae618d4ed0b9cb9ab6915357ce-0": {},
+        "f3ee2cae618d4ed0b9cb9ab6915357ce-1": {},
+        "f3ee2cae618d4ed0b9cb9ab6915357ce-2": {},
+        "f3ee2cae618d4ed0b9cb9ab6915357ce-3": {},
+        "f3ee2cae618d4ed0b9cb9ab6915357ce-4": {},
+        "f3ee2cae618d4ed0b9cb9ab6915357ce-5": {},
+
+        "376afd232afb412184b6f915cfd031ab-0": {},
+        "376afd232afb412184b6f915cfd031ab-1": {},
+        "376afd232afb412184b6f915cfd031ab-2": {},
+        "376afd232afb412184b6f915cfd031ab-3": {},
+        "376afd232afb412184b6f915cfd031ab-4": {},
+        "376afd232afb412184b6f915cfd031ab-5": {},
+
+        "73674a276a7e4cfd82d2b47f7d24cd2d-0": {},
+
+        "e751b287c4464ba08a9ad71477eb86de-0": {},
+        "e751b287c4464ba08a9ad71477eb86de-1": {},
+        "e751b287c4464ba08a9ad71477eb86de-2": {},
+        "e751b287c4464ba08a9ad71477eb86de-3": {},
+        "e751b287c4464ba08a9ad71477eb86de-4": {},
+
+        "5a0d2e4dea71474abb55b7c2bfb6e715-0": {}
+    },
+    "og_asset_list": {
+        "table": [
+            1,
+            1
+        ],
+        "chair": [
+            6,
+            1
+        ],
+        "candleholder": [
+            1,
+            1
+        ],
+        "flower vase": [
+            1,
+            1
+        ],
+        "tablecloth": [
+            1,
+            1
+        ],
+        "wine glass": [
+            6,
+            1
+        ],
+        "dinner plate": [
+            6,
+            1
+        ],
+        "napkin holder": [
+            1,
+            1
+        ],
+        "centerpiece": [
+            1,
+            1
+        ],
+        "chandelier": [
+            1,
+            1
+        ]
+    }
+}

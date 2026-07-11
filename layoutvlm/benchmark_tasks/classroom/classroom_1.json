@@ -1,0 +1,134 @@
+{
+    "task_description": "A high school classroom with lab tables; 8m x 9m",
+    "layout_criteria": "Functional science learning space; position lab tables in pairs with ample space between them, the student tables and material tables should be in differing spaces",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                8,
+                0,
+                0
+            ],
+            [
+                8,
+                9,
+                0
+            ],
+            [
+                0,
+                9,
+                0
+            ]
+        ],
+        "wall_height": 1.802064657832211
+    },
+    "assets": {
+        "a6585466b3bb4417bd0338c74328b209-0": {},
+        "a6585466b3bb4417bd0338c74328b209-1": {},
+
+        "78a36a4159e54a1eab2ff367279d5b0a-0": {},
+        "78a36a4159e54a1eab2ff367279d5b0a-1": {},
+        "78a36a4159e54a1eab2ff367279d5b0a-2": {},
+        "78a36a4159e54a1eab2ff367279d5b0a-3": {},
+        "78a36a4159e54a1eab2ff367279d5b0a-4": {},
+        "78a36a4159e54a1eab2ff367279d5b0a-5": {},
+        "78a36a4159e54a1eab2ff367279d5b0a-6": {},
+        "78a36a4159e54a1eab2ff367279d5b0a-7": {},
+
+        "74760247c9b747839d43cbdb72e3cb96-0": {},
+        "74760247c9b747839d43cbdb72e3cb96-1": {},
+        "74760247c9b747839d43cbdb72e3cb96-2": {},
+        "74760247c9b747839d43cbdb72e3cb96-3": {},
+        "74760247c9b747839d43cbdb72e3cb96-4": {},
+        "74760247c9b747839d43cbdb72e3cb96-5": {},
+        "74760247c9b747839d43cbdb72e3cb96-6": {},
+        "74760247c9b747839d43cbdb72e3cb96-7": {},
+        "74760247c9b747839d43cbdb72e3cb96-8": {},
+        "74760247c9b747839d43cbdb72e3cb96-9": {},
+        "74760247c9b747839d43cbdb72e3cb96-10": {},
+        "74760247c9b747839d43cbdb72e3cb96-11": {},
+        "74760247c9b747839d43cbdb72e3cb96-12": {},
+        "74760247c9b747839d43cbdb72e3cb96-13": {},
+        "74760247c9b747839d43cbdb72e3cb96-14": {},
+        "74760247c9b747839d43cbdb72e3cb96-15": {},
+
+
+        "211dd4cc67504144b699272ea55caaca-0": {},
+        "211dd4cc67504144b699272ea55caaca-1": {},
+        "211dd4cc67504144b699272ea55caaca-2": {},
+        "211dd4cc67504144b699272ea55caaca-3": {},
+        "211dd4cc67504144b699272ea55caaca-4": {},
+        "211dd4cc67504144b699272ea55caaca-5": {},
+        "211dd4cc67504144b699272ea55caaca-6": {},
+        "211dd4cc67504144b699272ea55caaca-7": {},
+
+        "ef22424f973044d28738a4c3c4ae31c0-0": {},
+        "ef22424f973044d28738a4c3c4ae31c0-1": {},
+        "ef22424f973044d28738a4c3c4ae31c0-2": {},
+        "ef22424f973044d28738a4c3c4ae31c0-3": {},
+        "ef22424f973044d28738a4c3c4ae31c0-4": {},
+        "ef22424f973044d28738a4c3c4ae31c0-5": {},
+        "ef22424f973044d28738a4c3c4ae31c0-6": {},
+        "ef22424f973044d28738a4c3c4ae31c0-7": {},
+
+        "7532be8f501d435194e3feec33a3addf-0": {},
+        "7532be8f501d435194e3feec33a3addf-1": {},
+        
+        "72286e591df64c2fbc75f00f085f3d64-0": {},
+        "72286e591df64c2fbc75f00f085f3d64-1": {},
+        "72286e591df64c2fbc75f00f085f3d64-2": {},
+        
+        "a6b75881124b435180a5031a4736b305-0": {},
+        "a6b75881124b435180a5031a4736b305-1": {},
+        "a6b75881124b435180a5031a4736b305-2": {},
+
+        "e8d10d0d23564af590b879853be27782-0": {},
+        "f4c3a936dae745e08405cf2fd820b89c-0": {}
+    },
+    "og_asset_list": {
+        "lab table": [
+            4,
+            2
+        ],
+        "chair": [
+            8,
+            1
+        ],
+        "microscope": [
+            1,
+            1
+        ],
+        "beaker": [
+            4,
+            1
+        ],
+        "test tube": [
+            6,
+            1
+        ],
+        "Bunsen burner": [
+            2,
+            1
+        ],
+        "magnifying glass": [
+            1,
+            1
+        ],
+        "safety goggles": [
+            8,
+            1
+        ],
+        "calculator": [
+            1,
+            1
+        ],
+        "whiteboard": [
+            1,
+            1
+        ]
+    }
+}

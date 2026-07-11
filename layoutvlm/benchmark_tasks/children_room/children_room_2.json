@@ -1,0 +1,83 @@
+{
+    "task_description": "An educational children's room with a single bed; 4m x 5m",
+    "layout_criteria": "Stimulating yet organized space; the study desk placed perpendicular to the bed",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0
+            ],
+            [
+                4,
+                5,
+                0
+            ],
+            [
+                0,
+                5,
+                0
+            ]
+        ],
+        "wall_height": 1.9288652801067665
+    },
+    "assets": {
+        "687129a9714544688a27c9f18c452b56-0": {},
+        "fd09a9cb1336413296578e8b00cb151a-0": {},
+        "fe678248122b499e91835652c2d40145-0": {},
+        "f336b5a0a7d64f2e93adc14715744b62-0": {},
+        "49b464ed824340ad8004396212171c13-0": {},
+        "26671c2fa87849d2b962af6f1cee8019-0": {},
+        "2c2c862ab06e4e90a0c982bff5a96cf5-0": {},
+        "fc826142a5544fa8a1f97589f4067de3-0": {},
+        "79e70a8ec7c54904a411eadfccefe775-0": {},
+        "89a33e13606b49299c909cc20bf25df5-0": {}
+    },
+    "og_asset_list": {
+        "study desk": [
+            1,
+            1
+        ],
+        "chair": [
+            1,
+            1
+        ],
+        "bed": [
+            1,
+            1
+        ],
+        "bookshelf": [
+            1,
+            1
+        ],
+        "lamp": [
+            1,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "toy chest": [
+            1,
+            1
+        ],
+        "wall art": [
+            1,
+            1
+        ],
+        "educational posters": [
+            1,
+            1
+        ],
+        "storage bins": [
+            1,
+            1
+        ]
+    }
+}

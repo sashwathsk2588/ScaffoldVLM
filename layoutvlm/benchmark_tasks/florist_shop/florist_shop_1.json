@@ -1,0 +1,114 @@
+{
+    "task_description": "A floral shop dominated by an arrangement of orchids near a wooden counter; 3m x 5m",
+    "layout_criteria": "Elegant and customer-focused design; the counter should be placed at a location for easy customer interaction",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                3,
+                0,
+                0
+            ],
+            [
+                3,
+                5,
+                0
+            ],
+            [
+                0,
+                5,
+                0
+            ]
+        ],
+        "wall_height": 2.834355947204294
+    },
+    "assets": {
+        "d1e4d146b4e341e49e2bcbb20edbf9df-0": {},
+        "119e19154a6e40429c47449b7b1e2717-0": {},
+
+        "f1091068cc89468f9c7f7490b3247238-0": {},
+        
+        "538ebba83f784885a4a6bba96b03166e-0": {},
+        "f1b0c6ffa28d4dcc8df653627dfc2b27-0": {},
+
+        "c4469abf45a247e98632f17fd2a2ab07-0": {},
+        "c4469abf45a247e98632f17fd2a2ab07-1": {},
+        "c4469abf45a247e98632f17fd2a2ab07-2": {},
+
+        "dd654e44674546bd891ab9620be5e405-0": {},
+        "dd654e44674546bd891ab9620be5e405-1": {},
+
+        "eb4a9828d3084b34bfc4275c9176c176-0": {},
+        "eb4a9828d3084b34bfc4275c9176c176-1": {},
+        "eb4a9828d3084b34bfc4275c9176c176-2": {},
+        "eb4a9828d3084b34bfc4275c9176c176-3": {},
+        "eb4a9828d3084b34bfc4275c9176c176-4": {},
+
+        "ace1633503724dfca9e8ba80636595a0-0": {},
+        "ace1633503724dfca9e8ba80636595a0-1": {},
+        "ace1633503724dfca9e8ba80636595a0-2": {},
+        "ace1633503724dfca9e8ba80636595a0-3": {},
+
+        "f40b89e0cbb44631bd2bea58d78b5cbe-0": {},
+
+        "988c4f83f9984c8d8f7b7418ce03efe7-0": {},
+
+        "7762da249b6d47cc85bedf71a0e4b1b7-0": {},
+        "dd6c9d90421b4a99acdfebbddd4ccf75-0": {},
+
+        "9b9c886786fd4e8e9102292a728d544c-0": {},
+
+        "ba0911be208b41919933417f82dc3fc4-0": {},
+        "ba0911be208b41919933417f82dc3fc4-1": {},
+        "ba0911be208b41919933417f82dc3fc4-2": {},
+
+        "1ab9bf841df04c07b1819be596327629-0": {},
+        "1ab9bf841df04c07b1819be596327629-1": {}
+    },
+    "og_asset_list": {
+        "orchids": [
+            1,
+            1
+        ],
+        "counter": [
+            1,
+            1
+        ],
+        "vase": [
+            1,
+            1
+        ],
+        "cash register": [
+            1,
+            1
+        ],
+        "flower arrangement": [
+            1,
+            1
+        ],
+        "scissors": [
+            1,
+            1
+        ],
+        "ribbon": [
+            1,
+            1
+        ],
+        "gift wrap": [
+            1,
+            1
+        ],
+        "customer chair": [
+            2,
+            1
+        ],
+        "decorative plant": [
+            1,
+            1
+        ]
+    }
+}

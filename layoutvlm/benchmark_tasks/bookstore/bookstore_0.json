@@ -1,0 +1,125 @@
+{
+    "task_description": "A small bookstore with multiple bookshelves; 5m x 7m",
+    "layout_criteria": "Compact yet browsable arrangement; align bookshelves along walls",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                5,
+                0,
+                0
+            ],
+            [
+                5,
+                7,
+                0
+            ],
+            [
+                0,
+                7,
+                0
+            ]
+        ],
+        "wall_height": 1.9773477606148286
+    },
+    "assets": {
+        "b43c45317fd74a4aa9ba443b9a355ea3-0": {},
+        "b43c45317fd74a4aa9ba443b9a355ea3-1": {},
+        "b43c45317fd74a4aa9ba443b9a355ea3-2": {},
+        "b43c45317fd74a4aa9ba443b9a355ea3-3": {},
+        "b43c45317fd74a4aa9ba443b9a355ea3-4": {},
+        "b43c45317fd74a4aa9ba443b9a355ea3-5": {},
+
+        "ff150ae5753046f596fbc9ce73e0f290-0": {},
+        "f704c552d4a440ee9da35d78828043c3-0": {},
+        "f5faf2e2e48a42b8b79e3fe644f75d91-0": {},
+        "f5faf2e2e48a42b8b79e3fe644f75d91-1": {},
+
+        "2d6812b8d9c2439aa5e647b38ed9c047-0": {},
+        "2d6812b8d9c2439aa5e647b38ed9c047-1": {},
+        "2d6812b8d9c2439aa5e647b38ed9c047-2": {},
+        "2d6812b8d9c2439aa5e647b38ed9c047-3": {},
+        "2d6812b8d9c2439aa5e647b38ed9c047-4": {},
+        "2d6812b8d9c2439aa5e647b38ed9c047-5": {},
+        
+        "38896b59219f424a9c095db2c955ae1f-0": {},
+        "38896b59219f424a9c095db2c955ae1f-1": {},
+        "38896b59219f424a9c095db2c955ae1f-2": {},
+        "38896b59219f424a9c095db2c955ae1f-3": {},
+  
+        "b277acf8d7874dd6b7cf2184654c4f0d-0": {},
+        "b277acf8d7874dd6b7cf2184654c4f0d-1": {},
+        "b277acf8d7874dd6b7cf2184654c4f0d-2": {},
+        "b277acf8d7874dd6b7cf2184654c4f0d-3": {},
+        "b277acf8d7874dd6b7cf2184654c4f0d-4": {},
+        "b277acf8d7874dd6b7cf2184654c4f0d-5": {},
+        "b277acf8d7874dd6b7cf2184654c4f0d-6": {},
+        "b277acf8d7874dd6b7cf2184654c4f0d-7": {},
+        "b277acf8d7874dd6b7cf2184654c4f0d-8": {},
+        "b277acf8d7874dd6b7cf2184654c4f0d-9": {},
+
+        "c4469abf45a247e98632f17fd2a2ab07-0": {},
+        "c4469abf45a247e98632f17fd2a2ab07-1": {},
+
+        "fffc1e93674a4d1ba3bcb99a647ced47-0": {},
+        "fffc1e93674a4d1ba3bcb99a647ced47-1": {},
+        
+        "119e19154a6e40429c47449b7b1e2717-0": {},
+        "d1e4d146b4e341e49e2bcbb20edbf9df-0": {},
+
+        "49b464ed824340ad8004396212171c13-0": {},
+        "d5aa77e6835a44bb90a28cbd5ea64249-0": {},
+
+        "da04332ea96a4e9395c8612da0aac84b-0": {},
+        "da04332ea96a4e9395c8612da0aac84b-1": {},
+
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-0": {},
+        "b9bbb7b0c02f4fb29976bb1d004cb2d9-0": {}
+    },
+    "og_asset_list": {
+        "bookshelf": [
+            4,
+            1
+        ],
+        "book": [
+            50,
+            5
+        ],
+        "reading chair": [
+            2,
+            1
+        ],
+        "reading lamp": [
+            2,
+            1
+        ],
+        "cash register": [
+            1,
+            1
+        ],
+        "counter": [
+            1,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "signage": [
+            1,
+            1
+        ],
+        "coffeetable": [
+            1,
+            1
+        ],
+        "plant": [
+            2,
+            1
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "task_description": "A small classroom for 4 students with a round table and a whiteboard; 4m x 5m",
+    "layout_criteria": "Intimate and collaborative setting; align the tables with the whiteboard, which is behind the teachers desk",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0
+            ],
+            [
+                4,
+                5,
+                0
+            ],
+            [
+                0,
+                5,
+                0
+            ]
+        ],
+        "wall_height": 2.4107504996647684
+    },
+    "assets": {
+        "fd09a9cb1336413296578e8b00cb151a-0": {},
+        "fd09a9cb1336413296578e8b00cb151a-1": {},
+        "fd09a9cb1336413296578e8b00cb151a-2": {},
+        "fd09a9cb1336413296578e8b00cb151a-3": {},
+
+        "f9a72178510c4ee8ba13c2b0083fa026-0": {},
+        "f9a72178510c4ee8ba13c2b0083fa026-1": {},
+        "f9a72178510c4ee8ba13c2b0083fa026-2": {},
+        "f9a72178510c4ee8ba13c2b0083fa026-3": {},
+
+        "492a3ba1631945f8ba88f5c1154f5727-0": {},
+
+        "d63842d0dba54ec2be00b0d9ee60c103-0": {},
+
+        "f353bbc60e6747de83fd0c616fd970b3-0": {},
+
+        "51aad26d1c544351ada8ff72a9d30b4d-0": {},
+        "51aad26d1c544351ada8ff72a9d30b4d-1": {},
+        "51aad26d1c544351ada8ff72a9d30b4d-2": {},
+        "51aad26d1c544351ada8ff72a9d30b4d-3": {},
+
+        "fcaba41f8ec0430696793a384189d0c7-0": {},
+        "fcaba41f8ec0430696793a384189d0c7-1": {},
+        "fcaba41f8ec0430696793a384189d0c7-2": {},
+        "fcaba41f8ec0430696793a384189d0c7-3": {},
+
+        "07141ec4d54b4485be1819a52e8ce7f6-0": {},
+        "07141ec4d54b4485be1819a52e8ce7f6-1": {},
+        "07141ec4d54b4485be1819a52e8ce7f6-2": {},
+        "07141ec4d54b4485be1819a52e8ce7f6-3": {},
+        
+        "82c13f3487f84657bff6ae9a028eec49-0": {},
+        "82c13f3487f84657bff6ae9a028eec49-1": {},
+        "82c13f3487f84657bff6ae9a028eec49-2": {},
+        "82c13f3487f84657bff6ae9a028eec49-3": {},
+
+        "054be0c3f09143f38c4d8038eb2588c6-0": {},
+        "054be0c3f09143f38c4d8038eb2588c6-1": {},
+        "054be0c3f09143f38c4d8038eb2588c6-2": {},
+        "054be0c3f09143f38c4d8038eb2588c6-3": {},
+
+        "da04332ea96a4e9395c8612da0aac84b-0": {},
+
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-0": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-1": {},
+
+        "f336b5a0a7d64f2e93adc14715744b62-0": {}
+    },
+    "og_asset_list": {
+        "desk": [
+            4,
+            1
+        ],
+        "chair": [
+            4,
+            1
+        ],
+        "whiteboard": [
+            1,
+            1
+        ],
+        "laptop_computer": [
+            4,
+            1
+        ],
+        "pen": [
+            4,
+            1
+        ],
+        "notebook": [
+            4,
+            1
+        ],
+        "pencil": [
+            4,
+            1
+        ],
+        "desk lamp": [
+            4,
+            1
+        ],
+        "backpack": [
+            4,
+            1
+        ],
+        "calculator": [
+            4,
+            1
+        ]
+    }
+}

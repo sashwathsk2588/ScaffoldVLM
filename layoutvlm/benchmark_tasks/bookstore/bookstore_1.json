@@ -1,0 +1,114 @@
+{
+    "task_description": "A spacious bookstore with a reading area and bookcases; 10m x 7m",
+    "layout_criteria": "Airy and inviting space; create a central reading area surrounded by the bookcases",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                10,
+                0,
+                0
+            ],
+            [
+                10,
+                7,
+                0
+            ],
+            [
+                0,
+                7,
+                0
+            ]
+        ],
+        "wall_height": 1.6257099772359498
+    },
+    "assets": {
+        "d4ecb9dce4724ec98f5237e395591d41-0": {},
+        "d4ecb9dce4724ec98f5237e395591d41-1": {},
+        "d4ecb9dce4724ec98f5237e395591d41-2": {},
+        "d4ecb9dce4724ec98f5237e395591d41-3": {},
+        "d4ecb9dce4724ec98f5237e395591d41-4": {},
+        "d4ecb9dce4724ec98f5237e395591d41-5": {},
+
+        "aa286e5455f54e39affa9448ffbad6bd-0": {},
+
+        "ce421f10e46d415198d5d19c5bd265f2-0": {},
+        "ce421f10e46d415198d5d19c5bd265f2-1": {},
+        "ce421f10e46d415198d5d19c5bd265f2-2": {},
+        "ce421f10e46d415198d5d19c5bd265f2-3": {},
+        "ce421f10e46d415198d5d19c5bd265f2-4": {},
+        "ce421f10e46d415198d5d19c5bd265f2-5": {},
+        "ce421f10e46d415198d5d19c5bd265f2-6": {},
+        "ce421f10e46d415198d5d19c5bd265f2-7": {},
+        "ce421f10e46d415198d5d19c5bd265f2-8": {},
+        "ce421f10e46d415198d5d19c5bd265f2-9": {},
+
+
+        "fffc1e93674a4d1ba3bcb99a647ced47-0": {},
+        "fffc1e93674a4d1ba3bcb99a647ced47-1": {},
+        "fffc1e93674a4d1ba3bcb99a647ced47-2": {},
+        "fffc1e93674a4d1ba3bcb99a647ced47-3": {},
+
+        "49b464ed824340ad8004396212171c13-0": {},
+
+        "706a1b0e23d34e60b0f8c9210ee85722-0": {},
+
+        "4d1735ef095044209e9ac12e60aec30a-0": {},
+
+        "b45be92a98bc4f0c8d2544e5f01e77f2-0": {},
+        "b45be92a98bc4f0c8d2544e5f01e77f2-1": {},
+
+        "9c6eccd1a8eb434981317bf3e66ec2bb-0": {},
+
+        "982738043be146b5a7c3a3f81970ddc6-0": {},
+        "982738043be146b5a7c3a3f81970ddc6-1": {},
+
+        "4efb23fc916d4ee3bee549100970809a-0": {}
+    },
+    "og_asset_list": {
+        "chair": [
+            4,
+            1
+        ],
+        "table": [
+            1,
+            1
+        ],
+        "bookcase": [
+            4,
+            1
+        ],
+        "reading lamp": [
+            4,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "coffee table": [
+            1,
+            1
+        ],
+        "couch": [
+            1,
+            1
+        ],
+        "magazine rack": [
+            1,
+            1
+        ],
+        "ottoman": [
+            1,
+            1
+        ],
+        "plant": [
+            2,
+            1
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "task_description": "A florist shop with a variety of flowers and a cozy seating area; 5m x 7m",
+    "layout_criteria": "Warm and welcoming atmosphere; the seating area should be opposite the checkout counter, with flowers displayed along the walls",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                5,
+                0,
+                0
+            ],
+            [
+                5,
+                7,
+                0
+            ],
+            [
+                0,
+                7,
+                0
+            ]
+        ],
+        "wall_height": 1.9586725426059801
+    },
+    "assets": {
+        "d1e4d146b4e341e49e2bcbb20edbf9df-0": {},
+
+        "a54a6250d8be48db80885df855fe266f-0": {},
+
+        "ec8038830768464993ee105c6310caef-0": {},
+
+        "b7274481dcfa4290964cd6e509e51952-0": {},
+        "b7274481dcfa4290964cd6e509e51952-1": {},
+
+        "d187108ded554afb886b40f01d059703-0": {},
+        "d187108ded554afb886b40f01d059703-1": {},
+        "d187108ded554afb886b40f01d059703-2": {},
+        "d187108ded554afb886b40f01d059703-3": {},
+
+        "0ce93a5db10d493f8d439b110426165a-0": {},
+        "0ce93a5db10d493f8d439b110426165a-1": {},
+        "0ce93a5db10d493f8d439b110426165a-2": {},
+        "0ce93a5db10d493f8d439b110426165a-3": {},
+
+        "b036c6dffa60494c9b060c765ff8ab46-0": {},
+        "b036c6dffa60494c9b060c765ff8ab46-1": {},
+        "b036c6dffa60494c9b060c765ff8ab46-2": {},
+        "b036c6dffa60494c9b060c765ff8ab46-3": {},
+        
+        "b4533981c0ff4c1794cb708795ed190d-0": {},
+        "b4533981c0ff4c1794cb708795ed190d-1": {},
+        "b4533981c0ff4c1794cb708795ed190d-2": {},
+        "b4533981c0ff4c1794cb708795ed190d-3": {},
+
+        "10dfb3c26d6a4036a193803df1e3d987-0": {},
+
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-0": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-1": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-2": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-3": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-4": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-5": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-6": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-7": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-8": {},
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-9": {},
+
+        "75b0fb61da014372861fd74a8cb73152-0": {},
+        "75b0fb61da014372861fd74a8cb73152-1": {},
+        "75b0fb61da014372861fd74a8cb73152-2": {},
+        "75b0fb61da014372861fd74a8cb73152-3": {},
+        "75b0fb61da014372861fd74a8cb73152-4": {},
+
+        "9c6eccd1a8eb434981317bf3e66ec2bb-0": {},
+        "9c6eccd1a8eb434981317bf3e66ec2bb-1": {},
+        "9c6eccd1a8eb434981317bf3e66ec2bb-2": {},
+
+        "0a47c9c959d64edbba8dbcbac7981ef4-0": {},
+
+        "d2524f238cd043cdaca559b51f7611dc-0": {}
+    },
+    "og_asset_list": {
+        "flower": [
+            20,
+            5
+        ],
+        "checkout counter": [
+            1,
+            1
+        ],
+        "cozy chair": [
+            4,
+            1
+        ],
+        "cozy sofa": [
+            1,
+            1
+        ],
+        "vase": [
+            10,
+            1
+        ],
+        "flowerpot": [
+            5,
+            1
+        ],
+        "decorative plant": [
+            3,
+            1
+        ],
+        "coffeetable": [
+            1,
+            1
+        ],
+        "cushion": [
+            8,
+            1
+        ],
+        "mirror": [
+            1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "task_description": "A child-friendly classroom with colorful mats and small tables; 6m x 8m",
+    "layout_criteria": "Playful and flexible space; distribute colorful mats in a circular pattern with small tables interspersed, allowing for easy reconfiguration",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                8,
+                0,
+                0
+            ],
+            [
+                8,
+                6,
+                0
+            ],
+            [
+                0,
+                6,
+                0
+            ]
+        ],
+        "wall_height": 1.5999948644582291
+    },
+    "assets": {
+        "e6341bc0e0b646a1b073a5dc520d3d43-0": {},
+        
+        "fe678248122b499e91835652c2d40145-0": {},
+        "fe678248122b499e91835652c2d40145-1": {},
+        "fe678248122b499e91835652c2d40145-2": {},
+        "fe678248122b499e91835652c2d40145-3": {},
+        "fe678248122b499e91835652c2d40145-4": {},
+
+        "999f7b6bb4a44a6e933aeb59e68c38ef-0": {},
+
+        "e6d07689a42a4a2f95311ec977da2690-0": {},
+        "e6d07689a42a4a2f95311ec977da2690-1": {},
+        "e6d07689a42a4a2f95311ec977da2690-2": {},
+        "e6d07689a42a4a2f95311ec977da2690-3": {},
+        "e6d07689a42a4a2f95311ec977da2690-4": {},
+        "e6d07689a42a4a2f95311ec977da2690-5": {},
+
+        "5159d7fbe240489285cfe91f51084cc7-0": {},
+        "5159d7fbe240489285cfe91f51084cc7-1": {},
+
+        "9c8ed8e91960404fa5f24b5599049bad-0": {},
+        "9c8ed8e91960404fa5f24b5599049bad-1": {},
+        "9c8ed8e91960404fa5f24b5599049bad-2": {},
+        "9c8ed8e91960404fa5f24b5599049bad-3": {},
+
+        "5faa3447f82e45fab5e8527def2c7770-0": {},
+
+        "c1c7223834ca49cba5ee213eb7131a0b-0": {},
+        "f353bbc60e6747de83fd0c616fd970b3-0": {},
+
+        "0292ebb0ac4d492c8b1f9be295bbe93a-0": {},
+        "0292ebb0ac4d492c8b1f9be295bbe93a-1": {},
+        "0292ebb0ac4d492c8b1f9be295bbe93a-2": {},
+
+        "qCWXrNLMlMOEtD5rcS0zOKbdkbB-0": {},
+
+        "ecf4fc39aedc4d2f9b83cf6718d563e7-0": {},
+
+        "3020862e9f884a6eabe362553a76f575-0": {},
+
+        "e588b9b1873a42978662c0bf4b07e3a6-0": {},
+
+        "507dae90a1f541e0a3e2ccbee5abc333-0": {},
+
+        "988c4f83f9984c8d8f7b7418ce03efe7-0": {}
+    },
+    "og_asset_list": {
+        "colorful mat": [
+            10,
+            3
+        ],
+        "small table": [
+            6,
+            2
+        ],
+        "chair": [
+            12,
+            1
+        ],
+        "toy box": [
+            1,
+            1
+        ],
+        "bookshelf": [
+            1,
+            1
+        ],
+        "whiteboard": [
+            1,
+            1
+        ],
+        "educational poster": [
+            3,
+            1
+        ],
+        "pencil holder": [
+            1,
+            1
+        ],
+        "toy basket": [
+            1,
+            1
+        ],
+        "clock": [
+            1,
+            1
+        ]
+    }
+}

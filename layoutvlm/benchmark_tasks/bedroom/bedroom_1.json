@@ -1,0 +1,39 @@
+{
+    "task_description": "a relaxing bedroom with a king-size bed, fluffy carpet, and a floor lamp, 5m x 4m",
+    "layout_criteria": "cozy, warm, and functional, with a focus on creating a serene and comfortable atmosphere. The king-size bed should be on the fluffy carpet and the floor lamp should light up the bed side.\n",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                5,
+                0,
+                0
+            ],
+            [
+                5,
+                4,
+                0
+            ],
+            [
+                0,
+                4,
+                0
+            ]
+        ],
+        "wall_height": 2.82683684361293
+    },
+    "assets": {
+        "853a89ec51d14fd39f24cb85a65334ca-0": {},
+        "435d64ef1e36457790000c6b6aa4b8b2-0": {},
+        "a0b5a145c42d4f30b896025710828559-0": {},
+        "e72a40a1adde489b9e0149f94eb7d967-0": {},
+        "e72a40a1adde489b9e0149f94eb7d967-1": {},
+        "2387a94cd3d84b26920cb4aaf0712d69-0": {},
+        "d2524f238cd043cdaca559b51f7611dc-0": {},
+        "7e44ec220d0e4c8b8901aa16e5523bf8-0": {}
+    }
+}

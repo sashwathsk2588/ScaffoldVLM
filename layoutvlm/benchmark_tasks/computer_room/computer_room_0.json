@@ -1,0 +1,105 @@
+{
+    "task_description": "A computer room with a desks and speakers; 4m x 5m",
+    "layout_criteria": "Immersive gaming experience; chairs should be aligned with the front of each desk and speakers should be placed at the corners of the room",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0
+            ],
+            [
+                4,
+                5,
+                0
+            ],
+            [
+                0,
+                5,
+                0
+            ]
+        ],
+        "wall_height": 2.4985581669040484
+    },
+    "assets": {
+        "db489f6b7b2b4b82940d37195d81653a-0": {},
+        "db489f6b7b2b4b82940d37195d81653a-1": {},
+
+        "ccb3ada5917a4b90b689e1d1bf852dc2-0": {},
+        "ccb3ada5917a4b90b689e1d1bf852dc2-1": {},
+
+        "94a91248c6de47d8a85f60fa8111c859-0": {},
+        "94a91248c6de47d8a85f60fa8111c859-1": {},
+        "94a91248c6de47d8a85f60fa8111c859-2": {},
+        "94a91248c6de47d8a85f60fa8111c859-3": {},
+
+        "d2655c4255ae417cb7c00abd775b5eb2-0": {},
+        "d2655c4255ae417cb7c00abd775b5eb2-1": {},
+        "d2655c4255ae417cb7c00abd775b5eb2-2": {},
+        "d2655c4255ae417cb7c00abd775b5eb2-3": {},
+
+        "19612447cf644f559e5bb2341ec86153-0": {},
+        "19612447cf644f559e5bb2341ec86153-1": {},
+
+        "0161b6232216457aa8f4f3393960ec85-0": {},
+        "0161b6232216457aa8f4f3393960ec85-1": {},
+
+        "2ff06ab46bff4b26aee2ce64e62b83f3-0": {},
+        "2ff06ab46bff4b26aee2ce64e62b83f3-1": {},
+
+        "dbf9c15333814afa88345312b521ddab-0": {},
+        "dbf9c15333814afa88345312b521ddab-1": {},
+
+        "a79f9f5d8cff4bf9bea23bf72e7b9427-0": {},
+
+        "d2dc3287997a4f529deb3c7cb55cce72-0": {},
+        "d2dc3287997a4f529deb3c7cb55cce72-1": {}
+    },
+    "og_asset_list": {
+        "desk": [
+            2,
+            1
+        ],
+        "chair": [
+            2,
+            1
+        ],
+        "speaker": [
+            4,
+            1
+        ],
+        "computer monitor": [
+            2,
+            1
+        ],
+        "headset": [
+            2,
+            1
+        ],
+        "keyboard": [
+            2,
+            1
+        ],
+        "mouse": [
+            2,
+            1
+        ],
+        "gaming console": [
+            1,
+            1
+        ],
+        "cable management box": [
+            1,
+            1
+        ],
+        "gaming chair": [
+            2,
+            1
+        ]
+    }
+}

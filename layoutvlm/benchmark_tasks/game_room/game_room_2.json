@@ -1,0 +1,98 @@
+{
+    "task_description": "An inviting game room with a pool table and poker set; 6m x 7m",
+    "layout_criteria": "Versatile entertainment area; center the pool table in the room",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                6,
+                0,
+                0
+            ],
+            [
+                6,
+                7,
+                0
+            ],
+            [
+                0,
+                7,
+                0
+            ]
+        ],
+        "wall_height": 2.7421194341945916
+    },
+    "assets": {
+        "0f2ae181a2dd4b00a6ec25073692037f-0": {},
+        
+        "6818e36dd6ae4cc3a73c63742e817349-0": {},
+        "6818e36dd6ae4cc3a73c63742e817349-1": {},
+        "6818e36dd6ae4cc3a73c63742e817349-2": {},
+        "6818e36dd6ae4cc3a73c63742e817349-3": {},
+        "6818e36dd6ae4cc3a73c63742e817349-4": {},
+        "6818e36dd6ae4cc3a73c63742e817349-5": {},
+        
+        "523ac862d2154a7e8c96b964fb7cb11f-0": {},
+
+        "a48473a5ae7c437496a7aa388f8c458b-0": {},
+        
+        "841e271f392b4b3187b19fbdbb81ef62-0": {},
+        "841e271f392b4b3187b19fbdbb81ef62-1": {},
+
+        "67d88c3a9b1c4075aaf3feaeabde4fa1-0": {},
+        "67d88c3a9b1c4075aaf3feaeabde4fa1-1": {},
+        "67d88c3a9b1c4075aaf3feaeabde4fa1-2": {},
+        "67d88c3a9b1c4075aaf3feaeabde4fa1-3": {},
+
+        "994cecc1a49d4a17a98b36f26b03d52d-0": {},
+
+        "0b43f85af5384ea4bac5d6e2d3cbd008-0": {},
+        "0b43f85af5384ea4bac5d6e2d3cbd008-1": {}
+    },
+    "og_asset_list": {
+        "pool table": [
+            1,
+            1
+        ],
+        "poker set": [
+            1,
+            1
+        ],
+        "bar stool": [
+            4,
+            1
+        ],
+        "bar table": [
+            1,
+            1
+        ],
+        "pool cue": [
+            6,
+            1
+        ],
+        "billiard ball": [
+            1,
+            1
+        ],
+        "vintage arcade game": [
+            2,
+            1
+        ],
+        "popcorn machine": [
+            1,
+            1
+        ],
+        "neon sign": [
+            1,
+            1
+        ],
+        "dartboard": [
+            1,
+            1
+        ]
+    }
+}

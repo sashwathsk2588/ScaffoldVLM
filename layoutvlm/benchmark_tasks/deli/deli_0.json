@@ -1,0 +1,93 @@
+{
+    "task_description": "A deli with wooden shelves stocked with gourmet goods; 3m x 5m",
+    "layout_criteria": "Upscale and browsable layout; arrange wooden shelves along the walls for customers to broswe",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                5,
+                0,
+                0
+            ],
+            [
+                5,
+                3,
+                0
+            ],
+            [
+                0,
+                3,
+                0
+            ]
+        ],
+        "wall_height": 1.4380879911393807
+    },
+    "assets": {
+        "b68cc93dc44440f5862258d04d212934-0": {},
+        "b68cc93dc44440f5862258d04d212934-1": {},
+        "b68cc93dc44440f5862258d04d212934-2": {},
+        "b68cc93dc44440f5862258d04d212934-3": {},
+        "b68cc93dc44440f5862258d04d212934-4": {},
+        
+        "bc7f26baef2a45d18dbd9a5d6d2ec565-0": {},
+
+        "28791f7aed7345568129b50a6117e20d-0": {},
+
+        "10b6f7fffca047248f98542ce3ecc310-0": {},
+        
+        "b9bbb7b0c02f4fb29976bb1d004cb2d9-0": {},
+        
+        "d1e4d146b4e341e49e2bcbb20edbf9df-0": {},
+        "fa5e43f4ae7e446ab8c94bbd650320f7-0": {},
+        
+        "34f6a85cd5bf48c797f34199309f161e-0": {},
+        "00aee5c2fef743d69421bb642d446a5b-0": {},
+        "c63510b103fc4954ad36a84d7e26e7ec-0": {}
+    },
+    "og_asset_list": {
+        "wooden_shelf": [
+            4,
+            1
+        ],
+        "gourmet_goods": [
+            1,
+            1
+        ],
+        "cash_register": [
+            1,
+            1
+        ],
+        "scale": [
+            1,
+            1
+        ],
+        "shopping_basket": [
+            3,
+            1
+        ],
+        "deli_counter": [
+            1,
+            1
+        ],
+        "meat_slicer": [
+            1,
+            1
+        ],
+        "cheese_board": [
+            1,
+            1
+        ],
+        "bread_basket": [
+            1,
+            1
+        ],
+        "wine_bottle": [
+            1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "task_description": "A cozy dining room with a circular table and two chairs; 3.5m x 4m",
+    "layout_criteria": "Intimate and space-efficient layout; set the circular table in one corner with two chairs",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                3.5,
+                0,
+                0
+            ],
+            [
+                3.5,
+                4,
+                0
+            ],
+            [
+                0,
+                4,
+                0
+            ]
+        ],
+        "wall_height": 2.0443874993818243
+    },
+    "assets": {
+        "0c835523d6b34fd29112fa388cc55661-0": {},
+
+        "fd09a9cb1336413296578e8b00cb151a-0": {},
+        "fd09a9cb1336413296578e8b00cb151a-1": {},
+
+        "f336b5a0a7d64f2e93adc14715744b62-0": {},
+        "f336b5a0a7d64f2e93adc14715744b62-1": {},
+
+        "7e3aeb6622ce4672968d8cabbb63cbd3-0": {},
+        "7e3aeb6622ce4672968d8cabbb63cbd3-1": {},
+
+        "4eef3df05a234a36bc9c385be5284078-0": {},
+
+        "49b464ed824340ad8004396212171c13-0": {},
+
+        "f32d702daef64828ac17ee71bd12f058-0": {}
+    },
+    "og_asset_list": {
+        "table": [
+            1,
+            1
+        ],
+        "chair": [
+            2,
+            1
+        ],
+        "light fixture": [
+            1,
+            1
+        ],
+        "tableware": [
+            1,
+            1
+        ],
+        "flower vase": [
+            1,
+            1
+        ],
+        "candle holder": [
+            1,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "painting": [
+            1,
+            1
+        ],
+        "curtains": [
+            1,
+            1
+        ],
+        "decorative bowl": [
+            1,
+            1
+        ]
+    }
+}

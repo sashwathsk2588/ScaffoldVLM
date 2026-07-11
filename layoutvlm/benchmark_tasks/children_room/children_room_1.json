@@ -1,0 +1,93 @@
+{
+    "task_description": "A peaceful children's room with a cradle; 3.5m x 4m",
+    "layout_criteria": "Serene and nurturing atmosphere; position the cradle near an open area of the room for easy access, with a rocking chair placed at a 45-degree angle at an opposite corner facing the cradle",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                3.5,
+                0,
+                0
+            ],
+            [
+                3.5,
+                4,
+                0
+            ],
+            [
+                0,
+                4,
+                0
+            ]
+        ],
+        "wall_height": 2.5352319202506166
+    },
+    "assets": {
+        "ea1cb1fd1c2b4736ba7a78553ea6fdd5-0": {},
+
+        "922babc233ae4da9bf2835427644002f-0": {},
+
+        "cee94954353d4e19a388e3ed4c8e64a7-0": {},
+        "cee94954353d4e19a388e3ed4c8e64a7-1": {},
+
+        "c5507b1f47164699b879f26b493cbd7e-0": {},
+
+        "1adfc9dce86b4ea9aaf138b1e0e6f343-0": {},
+
+        "27ad3793a9f54fed89a3fb17202551f0-0": {},
+
+        "fb0a0301abf6431485b70e497aa3f5bc-0": {},
+
+        "fe3a71d0e5f2482d97c379097a054ebd-0": {},
+        "fe3a71d0e5f2482d97c379097a054ebd-1": {},
+        "fe3a71d0e5f2482d97c379097a054ebd-2": {},
+
+        "a4156055a50342fc90559d21658bd38a-0": {}
+    },
+    "og_asset_list": {
+        "cradle": [
+            1,
+            1
+        ],
+        "rocking chair": [
+            1,
+            1
+        ],
+        "teddy bear": [
+            1,
+            1
+        ],
+        "story book": [
+            1,
+            1
+        ],
+        "nightlight": [
+            1,
+            1
+        ],
+        "toy chest": [
+            1,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "mobile": [
+            1,
+            1
+        ],
+        "blanket": [
+            1,
+            1
+        ],
+        "stuffed animal": [
+            1,
+            1
+        ]
+    }
+}

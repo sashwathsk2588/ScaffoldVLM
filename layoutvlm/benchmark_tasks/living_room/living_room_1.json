@@ -1,0 +1,87 @@
+{
+    "task_description": "A spacious living room with the following layout specifications: large sofa centered in the room, coffee table in front of the sofa, entertainment center on one wall, and a reading nook in one corner. Room size: 6m x 7m",
+    "layout_criteria": "The layout criteria should follow the task description and be spacious, with a large sofa centered in the room, a coffee table in front of the sofa, an entertainment center on one wall, and a reading nook in one corner.",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                6,
+                0,
+                0
+            ],
+            [
+                6,
+                7,
+                0
+            ],
+            [
+                0,
+                7,
+                0
+            ]
+        ],
+        "wall_height": 2.354278111789905
+    },
+    "assets": {
+        "ea8211d1ba024cf68f3d013412fc790f-0": {},
+        "706a1b0e23d34e60b0f8c9210ee85722-0": {},
+        "2f1700609c484ac09f212417954ffd3a-0": {},
+        "8ee42db193504c1cb397fffeb204fbb6-0": {},
+        "bc57eddf321d4fbca0c5cf8450c18692-0": {},
+        "c0255346c77d410f8e67676e95358143-0": {},
+        "49b464ed824340ad8004396212171c13-0": {},
+        "2a0f83c0d44444f4838f43e32fc161a5-0": {},
+        "341fbd5544f541bbb4d5edf5007c236d-0": {},
+        "341fbd5544f541bbb4d5edf5007c236d-1": {},
+        "341fbd5544f541bbb4d5edf5007c236d-2": {},
+        "341fbd5544f541bbb4d5edf5007c236d-3": {},
+        "ff91bcd9854e453dafc069321396225a-0": {},
+        "ff91bcd9854e453dafc069321396225a-1": {}
+    },
+    "og_asset_list": {
+        "sofa": [
+            1,
+            1
+        ],
+        "coffee table": [
+            1,
+            1
+        ],
+        "entertainment center": [
+            1,
+            1
+        ],
+        "reading nook chair": [
+            1,
+            1
+        ],
+        "reading lamp": [
+            1,
+            1
+        ],
+        "bookshelf": [
+            1,
+            1
+        ],
+        "rug": [
+            1,
+            1
+        ],
+        "floor lamp": [
+            1,
+            1
+        ],
+        "throw pillow": [
+            4,
+            1
+        ],
+        "blanket": [
+            2,
+            1
+        ]
+    }
+}

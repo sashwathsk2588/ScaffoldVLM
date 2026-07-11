@@ -1,0 +1,40 @@
+{
+    "task_description": "a minimalist bedroom with a low-profile queen bed and a vintage oak dresser, 4m x 4m",
+    "layout_criteria": "Position the low-profile queen bed against the center of one wall, leaving ample space on both sides for easy access. The bed should have a simple, clean-lined frame in a neutral color like white or light gray. Place the vintage oak dresser on the opposite wall, centered and with enough clearance for drawers to open fully. The dresser should feature a warm, natural wood tone to contrast with the bed's minimalist design. Arrange these two key pieces to create a balanced, open layout that maximizes floor space and maintains a clear path of movement throughout the room. Keep additional furnishings to a minimum to preserve the minimalist aesthetic and spacious feel.",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0
+            ],
+            [
+                4,
+                4,
+                0
+            ],
+            [
+                0,
+                4,
+                0
+            ]
+        ],
+        "wall_height": 1.8474803971637714
+    },
+    "assets": {
+        "39d113d5868d473caf71e928d1d313a6-0": {},
+        "2387a94cd3d84b26920cb4aaf0712d69-0": {},
+        "c2b22722e149416bacf7420a59cb472b-0": {},
+        "c2b22722e149416bacf7420a59cb472b-1": {},
+        "fcab595f56884554a1637762905a586b-0": {},
+        "fcab595f56884554a1637762905a586b-1": {},
+        "2f7213b2075c41d58fd247078b92c582-0": {},
+        "85c03c01a73a45de9bd9f92e0f48c942-0": {},
+        "8fd7e8f7b2c843fc94dc39808fb8e57c-0": {}
+    }
+}

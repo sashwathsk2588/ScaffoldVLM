@@ -1,0 +1,105 @@
+{
+    "task_description": "An old-fashioned deli with racks of fresh bread; 4m x 6m",
+    "layout_criteria": "Nostalgic and aromatic environment; position bread racks near the front where the checkout counter is located",
+    "boundary": {
+        "floor_vertices": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                4,
+                0,
+                0
+            ],
+            [
+                4,
+                6,
+                0
+            ],
+            [
+                0,
+                6,
+                0
+            ]
+        ],
+        "wall_height": 1.9313531858919646
+    },
+    "assets": {
+        "c149565323ee4ce093740d8bfe1e8176-0": {},
+        "c149565323ee4ce093740d8bfe1e8176-1": {},
+
+        "d1e4d146b4e341e49e2bcbb20edbf9df-0": {},
+        
+        "87562962d47e48b28cc1b874fa46a47f-0": {},
+
+        "57ad2e5534084bad8fa10f858d4cfcbd-0": {},
+        "57ad2e5534084bad8fa10f858d4cfcbd-1": {},
+        "57ad2e5534084bad8fa10f858d4cfcbd-2": {},
+        "57ad2e5534084bad8fa10f858d4cfcbd-3": {},
+        "57ad2e5534084bad8fa10f858d4cfcbd-4": {},
+        "57ad2e5534084bad8fa10f858d4cfcbd-5": {},
+        "57ad2e5534084bad8fa10f858d4cfcbd-6": {},
+        "57ad2e5534084bad8fa10f858d4cfcbd-7": {},
+        "57ad2e5534084bad8fa10f858d4cfcbd-8": {},
+        "57ad2e5534084bad8fa10f858d4cfcbd-9": {},
+
+        "555e522dcef94a148d1149101190c4a9-0": {},
+        "555e522dcef94a148d1149101190c4a9-1": {},
+        "555e522dcef94a148d1149101190c4a9-2": {},
+        "555e522dcef94a148d1149101190c4a9-3": {},
+        "555e522dcef94a148d1149101190c4a9-4": {},
+
+        "237f002bb59d42c1a377a1663bb71d25-0": {},
+        "237f002bb59d42c1a377a1663bb71d25-1": {},
+        "237f002bb59d42c1a377a1663bb71d25-2": {},
+        "237f002bb59d42c1a377a1663bb71d25-3": {},
+
+        "d5721263d8af423d9308203274ceb44f-0": {},
+
+        "98c03d093d994a29af8b65fcf8e447e5-0": {}
+    },
+    "og_asset_list": {
+        "bread rack": [
+            2,
+            1
+        ],
+        "checkout counter": [
+            1,
+            1
+        ],
+        "cash register": [
+            1,
+            1
+        ],
+        "scale": [
+            1,
+            1
+        ],
+        "bread loaf": [
+            10,
+            1
+        ],
+        "baguette": [
+            5,
+            1
+        ],
+        "bread knife": [
+            1,
+            1
+        ],
+        "apron": [
+            1,
+            1
+        ],
+        "baker's hat": [
+            1,
+            1
+        ],
+        "display case": [
+            1,
+            1
+        ]
+    }
+}
